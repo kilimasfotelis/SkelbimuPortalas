@@ -22,6 +22,6 @@ public class AdvertServlet extends HttpServlet {
         AdvertsService advertsService = new AdversServiceImpl();
         List<Advert> adverts = advertsService.getAdverts();
         req.setAttribute("adverts", adverts);
-        req.getRequestDispatcher("index.jsp").forward(req, resp);
+        req.getRequestDispatcher("advertsResult.jsp").forward(req, resp);
     }
 }
