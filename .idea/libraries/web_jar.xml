@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="web jar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/web jar/web jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/web jar/web jar" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/web jar/web jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/web jar/web jar" recursive="false" type="SOURCES" />
+  </library>
+</component>
