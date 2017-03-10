@@ -27,6 +27,9 @@ public class Advert {
         this.phone = phone;
         this.shortDescription = shortDescription;
     }
+    public Advert(){
+
+    }
 
     public Advert(int id, BigDecimal price, String description, Date insertTime, String city, Date activeTime, String email, String phone, String shortDescription) {
         this.id = id;
